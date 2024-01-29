@@ -4,10 +4,10 @@
   "after_dependencies": ["zeroconf"],
   "codeowners": ["@CoMPaTech", "@bouwew"],
   "config_flow": true,
-  "documentation": "https://github.com/jeroen-v-g/plugwise-beta",
+  "documentation": "https://github.com/jeroen-19/plugwise-beta",
   "integration_type": "hub",
   "iot_class": "local_polling",
   "loggers": ["plugwise"],
-  "requirements": ["git+https://github.com/jeroen-v-g/python-plugwise.git"],
+  "requirements": ["git+https://github.com/jeroen-19/python-plugwise.git"],
   "version": "0.46.2"
 }
