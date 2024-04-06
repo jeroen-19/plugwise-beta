@@ -8,6 +8,6 @@
   "integration_type": "hub",
   "iot_class": "local_polling",
   "loggers": ["plugwise"],
-  "requirements": ["git+https://github.com/jeroen-19/python-plugwise.git"],
+  "requirements": ["git+https://github.com/jeroen-19/python-plugwise.git@main"],
   "version": "0.46.2"
 }
